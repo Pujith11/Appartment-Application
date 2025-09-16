@@ -1,4 +1,4 @@
-# Apartment App
+# Apartment Application
 
 This Django-based web application designed to help users search for apartments using an interactive map interface powered by Leaflet.
 
